@@ -1,4 +1,4 @@
-# BookDatabase-training
+# android-book_database-training
 
 * csvを読み込み
 * タイトルキーワード検索
